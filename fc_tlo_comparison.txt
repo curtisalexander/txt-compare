@@ -1,0 +1,40 @@
+
+All lines in fc_social_sites.txt
+--------------------------------
+['AOL Chat', 'Aboutme', 'Academiaedu', 'Amplify', 'Angellist', 'Bandcamp', 'Bebo', 'Behance', 'Bitbucket', 'Blipfm', 'Blippy', 'Blogger', 'Crunchbase', 'Dandyid', 'Delicious', 'Deviantart', 'Digg', 'Diigo', 'Disqus', 'Doyoubuzz', 'Dribble', 'Facebook', 'Facebookchat', 'Flavorsme', 'Flickr', 'Foursquare', 'Friendfeed', 'Friendster', 'Full Contact', 'Gdgt', 'Getglue', 'Getsatisfaction', 'Gist', 'Github', 'Goodreads', 'Googleplus', 'Googleprofile', 'Gravatar', 'Gtalkchat', 'Hackernews', 'Hunch', 'Hypemachine', 'Hyves', 'Icqchat', 'Identica', 'Imdb', 'Intensedebate', 'Ircchat', 'Klout', 'Lanyrd', 'Lastfm', 'LinkedIn', 'Livejournal', 'Meadiciona', 'Meetup', 'Mixcloud', 'Mixi', 'Myspace', 'Ohloh', 'Orkut', 'Other', 'Pandora', 'Picasa', 'Pinboard', 'Pinterest', 'Plancast', 'Plaxo', 'Plurk', 'Qik', 'Quora', 'Reddit', 'Renren', 'Reverbnation', 'Scribd', 'Shelfari', 'Skype', 'Slideshare', 'Smugmug', 'Soundcloud', 'Stackexchange', 'Stackoverflow', 'Steam', 'Stumbleupon', 'Tagged', 'Tripit', 'Tumblr', 'Twitter', 'Typepad', 'VK', 'Vimeo', 'Weibo', 'Wordpress', 'Xing', 'Yelp', 'Youtube', 'eConsultancy', 'hi5']
+
+
+Duplicate lines in fc_social_sites.txt
+--------------------------------------
+[]
+
+
+All lines in tlo_social_sites.txt
+---------------------------------
+['AOL Chat', 'AOL Lifestream', 'Aboutme', 'Academiaedu', 'Amazon', 'Amplify', 'Angellist', 'Answers', 'Bandcamp', 'Bebo', 'Behance', 'Bitbucket', 'Black Planet', 'Blipfm', 'Blippy', 'Blogger', 'Break', 'Brightkite', 'CNN | Report', 'Cafe Mom', 'Care 2', 'CitySearch', 'Crunchbase', 'Daily Mothing', 'Dandyid', 'Delicious', 'DeviantART', 'Deviantart', 'Digg', 'Diigo', 'Disqus', 'Dopplr', 'Doyoubuzz', 'Dribble', 'Epinions', 'Etsy', 'Eventful', 'Facebook', 'Facebookchat', 'Flavorsme', 'Flickr', 'Flixster', 'Formspring', 'Fotolog', 'Foursquare', 'Friendfeed', 'Friendster', 'Gdgt', 'Getglue', 'Getsatisfaction', 'Gist', 'Github', 'Goodreads', 'Googleplus', 'Googleprofile', 'Googlereader', 'Gowalla', 'Gravatar', 'Gtalkchat', 'Hackernews', 'Hiim', 'Hulu', 'Hunch', 'Hypemachine', 'Hyves', 'Icqchat', 'Identica', 'Ign', 'Imdb', 'Imvu', 'Instagram', 'Intensedebate', 'Ircchat', 'Justin TV', 'Kaboodle', 'Klout', 'Lanyrd', 'Lastfm', 'LinkedIn', 'Livejournal', 'Lyrics', 'MSNchat', 'Match', 'Meadiciona', 'Meetup', 'Menusim', 'Metacafe', 'Mixcloud', 'Mixi', 'Multiply', 'Myspace', 'Netlog', 'Ohloh', 'OkCupid', 'Orkut', 'Pandora', 'PhotoBucket', 'Picasa', 'Picture Trail', 'Pinboard', 'Pinterest', 'Plancast', 'Plaxo', 'PlentyOfFish', 'Plurk', 'Posterous', 'Qik', 'Quora', 'Reddit', 'Renren', 'Reverbnation', 'Scribd', 'Shelfari', 'Skype', 'Slideshare', 'Smugmug', 'Soundcloud', 'Stackexchange', 'Stackoverflow', 'Steam', 'Stumbleupon', 'Tagged', 'ThisNext', 'Topix', 'TripAdvisor', 'Tripit', 'Tumblr', 'Twitter', 'Typepad', 'Urbanspoon', 'Ustream TV', 'VK', 'Veoh', 'Vimeo', 'Wordpress', 'Wretch', 'Xanga', 'Xing', 'Yahoo', 'Yahoo Chat', 'Yelp', 'Youtube', 'Zazzle', 'Zillow', 'eBay', 'eConsultancy', 'hi5']
+
+
+Duplicate lines in tlo_social_sites.txt
+---------------------------------------
+[]
+
+
+Unique lines in fc_social_sites.txt AND tlo_social_sites.txt - intersection
+---------------------------------------------------------------------------
+['AOL Chat', 'Aboutme', 'Academiaedu', 'Amplify', 'Angellist', 'Bandcamp', 'Bebo', 'Behance', 'Bitbucket', 'Blipfm', 'Blippy', 'Blogger', 'Crunchbase', 'Dandyid', 'Delicious', 'Deviantart', 'Digg', 'Diigo', 'Disqus', 'Doyoubuzz', 'Dribble', 'Facebook', 'Facebookchat', 'Flavorsme', 'Flickr', 'Foursquare', 'Friendfeed', 'Friendster', 'Gdgt', 'Getglue', 'Getsatisfaction', 'Gist', 'Github', 'Goodreads', 'Googleplus', 'Googleprofile', 'Gravatar', 'Gtalkchat', 'Hackernews', 'Hunch', 'Hypemachine', 'Hyves', 'Icqchat', 'Identica', 'Imdb', 'Intensedebate', 'Ircchat', 'Klout', 'Lanyrd', 'Lastfm', 'LinkedIn', 'Livejournal', 'Meadiciona', 'Meetup', 'Mixcloud', 'Mixi', 'Myspace', 'Ohloh', 'Orkut', 'Pandora', 'Picasa', 'Pinboard', 'Pinterest', 'Plancast', 'Plaxo', 'Plurk', 'Qik', 'Quora', 'Reddit', 'Renren', 'Reverbnation', 'Scribd', 'Shelfari', 'Skype', 'Slideshare', 'Smugmug', 'Soundcloud', 'Stackexchange', 'Stackoverflow', 'Steam', 'Stumbleupon', 'Tagged', 'Tripit', 'Tumblr', 'Twitter', 'Typepad', 'VK', 'Vimeo', 'Wordpress', 'Xing', 'Yelp', 'Youtube', 'eConsultancy', 'hi5']
+
+
+Unique lines in fc_social_sites.txt OR tlo_social_sites.txt - union
+-------------------------------------------------------------------
+['AOL Chat', 'AOL Lifestream', 'Aboutme', 'Academiaedu', 'Amazon', 'Amplify', 'Angellist', 'Answers', 'Bandcamp', 'Bebo', 'Behance', 'Bitbucket', 'Black Planet', 'Blipfm', 'Blippy', 'Blogger', 'Break', 'Brightkite', 'CNN | Report', 'Cafe Mom', 'Care 2', 'CitySearch', 'Crunchbase', 'Daily Mothing', 'Dandyid', 'Delicious', 'DeviantART', 'Deviantart', 'Digg', 'Diigo', 'Disqus', 'Dopplr', 'Doyoubuzz', 'Dribble', 'Epinions', 'Etsy', 'Eventful', 'Facebook', 'Facebookchat', 'Flavorsme', 'Flickr', 'Flixster', 'Formspring', 'Fotolog', 'Foursquare', 'Friendfeed', 'Friendster', 'Full Contact', 'Gdgt', 'Getglue', 'Getsatisfaction', 'Gist', 'Github', 'Goodreads', 'Googleplus', 'Googleprofile', 'Googlereader', 'Gowalla', 'Gravatar', 'Gtalkchat', 'Hackernews', 'Hiim', 'Hulu', 'Hunch', 'Hypemachine', 'Hyves', 'Icqchat', 'Identica', 'Ign', 'Imdb', 'Imvu', 'Instagram', 'Intensedebate', 'Ircchat', 'Justin TV', 'Kaboodle', 'Klout', 'Lanyrd', 'Lastfm', 'LinkedIn', 'Livejournal', 'Lyrics', 'MSNchat', 'Match', 'Meadiciona', 'Meetup', 'Menusim', 'Metacafe', 'Mixcloud', 'Mixi', 'Multiply', 'Myspace', 'Netlog', 'Ohloh', 'OkCupid', 'Orkut', 'Other', 'Pandora', 'PhotoBucket', 'Picasa', 'Picture Trail', 'Pinboard', 'Pinterest', 'Plancast', 'Plaxo', 'PlentyOfFish', 'Plurk', 'Posterous', 'Qik', 'Quora', 'Reddit', 'Renren', 'Reverbnation', 'Scribd', 'Shelfari', 'Skype', 'Slideshare', 'Smugmug', 'Soundcloud', 'Stackexchange', 'Stackoverflow', 'Steam', 'Stumbleupon', 'Tagged', 'ThisNext', 'Topix', 'TripAdvisor', 'Tripit', 'Tumblr', 'Twitter', 'Typepad', 'Urbanspoon', 'Ustream TV', 'VK', 'Veoh', 'Vimeo', 'Weibo', 'Wordpress', 'Wretch', 'Xanga', 'Xing', 'Yahoo', 'Yahoo Chat', 'Yelp', 'Youtube', 'Zazzle', 'Zillow', 'eBay', 'eConsultancy', 'hi5']
+
+
+Unique lines in fc_social_sites.txt ONLY - set difference
+---------------------------------------------------------
+['Full Contact', 'Other', 'Weibo']
+
+
+Unique lines in tlo_social_sites.txt ONLY - set difference
+----------------------------------------------------------
+['AOL Lifestream', 'Amazon', 'Answers', 'Black Planet', 'Break', 'Brightkite', 'CNN | Report', 'Cafe Mom', 'Care 2', 'CitySearch', 'Daily Mothing', 'DeviantART', 'Dopplr', 'Epinions', 'Etsy', 'Eventful', 'Flixster', 'Formspring', 'Fotolog', 'Googlereader', 'Gowalla', 'Hiim', 'Hulu', 'Ign', 'Imvu', 'Instagram', 'Justin TV', 'Kaboodle', 'Lyrics', 'MSNchat', 'Match', 'Menusim', 'Metacafe', 'Multiply', 'Netlog', 'OkCupid', 'PhotoBucket', 'Picture Trail', 'PlentyOfFish', 'Posterous', 'ThisNext', 'Topix', 'TripAdvisor', 'Urbanspoon', 'Ustream TV', 'Veoh', 'Wretch', 'Xanga', 'Yahoo', 'Yahoo Chat', 'Zazzle', 'Zillow', 'eBay']
+
