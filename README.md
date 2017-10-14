@@ -11,7 +11,7 @@ Simple comparison of two text files.  Checks for the following:
 ## Example
 
 
-```python
+```sh
 txt-compare.py --file1 test/txt1 --file2 test/txt2
 ```
 
