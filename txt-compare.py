@@ -5,8 +5,8 @@ import click
 
 
 @click.command()
-@click.option('--file1', type=click.Path(), help='file path to first text file')
-@click.option('--file2', type=click.Path(), help='file path to second text file')
+@click.option('--file1', type=click.Path(), help='file path to first text file', required=True)
+@click.option('--file2', type=click.Path(), help='file path to second text file', required=True)
 
 def compare(file1, file2):
     # file1
